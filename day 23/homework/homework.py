@@ -19,4 +19,3 @@ removed = nums2.pop()
 print(removed)
 nums3 = nums2[2] = 100
 print(nums)
-#H
